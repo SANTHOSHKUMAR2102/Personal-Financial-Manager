@@ -1,0 +1,48 @@
+/*body {
+  background-color: #646C79;
+}
+
+
+#balance-card {
+  background-color: white;
+  padding: 40px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+
+#balance-card h4{
+  font-size: 20px;
+  font-weight: bold;
+}
+
+#balance-card span{
+  font-size: 25px;
+  font-weight: bold;
+}  */
+
+.inc{
+  border-style: solid;
+  border-width: 0 0 0 5px;
+  border-color: green;
+  
+}
+
+.exp{
+  border-style: solid;
+  border-width: 0 0 0 5px;
+  border-color: red;
+}
+
+.overlay{
+  background-color: black;
+  opacity: 0.7;
+  display: none;
+
+}
+
+.edit-card {
+  position: absolute;
+  top: 25%;
+  left: 25%;
+  display: none;
+}
